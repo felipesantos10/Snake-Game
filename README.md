@@ -1,4 +1,9 @@
 <p align="center">
+   <img src="https://github.com/felipesantos10/Snake-Game/blob/main/image/jogo.png" alt="snakeGame" />
+</p>
+
+<!-- Badges -->
+<p align="center">
    <a href="https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/">
       <img alt="Felipe Martins" src="https://img.shields.io/badge/-Felipe Santos-blue?style=flat&logo=Linkedin&logoColor=bluee" />
    </a>
@@ -32,4 +37,7 @@ No bootcamp da Digital Innovation One em especial no curso de HTML Web developer
 ---
 
 <h4 align=center>Desenvolvido por Felipe Santos <a href="https://www.linkedin.com/in/luis-felipe-santos-silva-5623a8197/"> <strong>Entre em contato</strong> :)</a></a></h4>
+
+
+
 
